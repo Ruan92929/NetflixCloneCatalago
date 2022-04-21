@@ -1,0 +1,17 @@
+@media screen and (max-width:600px) {
+    
+    .container{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    .conteudo_principal .container .descricao{
+        margin-left: 10px;
+    }
+    .botoes{
+        width: 90vw;
+        display: flex;
+        justify-content: center;
+    }
+   
+}
